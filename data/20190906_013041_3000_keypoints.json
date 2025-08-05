@@ -1,0 +1,115 @@
+{
+  "version": "3.21.1",
+  "flags": {
+    "all-invisible": false
+  },
+  "shapes": [
+    {
+      "label": "inner-mid-left",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          296.1309523809524,
+          262.20238095238096
+        ]
+      ],
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "inner-top-left",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          352.4804177545692,
+          209.00783289817232
+        ]
+      ],
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "inner-top-right",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          456.26780626780624,
+          209.54415954415953
+        ]
+      ],
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "outer-top-right",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          548.8282208588956,
+          167.73006134969324
+        ]
+      ],
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "outer-bot-right",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          705.6666666666666,
+          424.2121212121212
+        ]
+      ],
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "outer-top-left",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          294.5244956772334,
+          162.82420749279538
+        ]
+      ],
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "outer-bot-left",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          133.399209486166,
+          430.23715415019757
+        ]
+      ],
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "20190906_013041_3000_image.png",
+  "imageData": null,
+  "imageHeight": 540,
+  "imageWidth": 960
+}

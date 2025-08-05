@@ -1,0 +1,180 @@
+{
+  "version": "3.21.1",
+  "flags": {
+    "all-invisible": false
+  },
+  "shapes": [
+    {
+      "label": "outer-mid-left",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          133.76288659793815,
+          307.4742268041237
+        ]
+      ],
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "outer-mid-right",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          701.063829787234,
+          309.5744680851064
+        ]
+      ],
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "outer-top-left",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          290.82217973231354,
+          160.03824091778202
+        ]
+      ],
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "outer-top-right",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          549.0079365079365,
+          163.88888888888889
+        ]
+      ],
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "inner-mid-left",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          295.01510574018124,
+          254.53172205438065
+        ]
+      ],
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "inner-mid-right",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          502.44299674267097,
+          252.7687296416938
+        ]
+      ],
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "inner-top-right",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          451.8,
+          206.5
+        ]
+      ],
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "inner-top-left",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          344.1983122362869,
+          206.22362869198312
+        ]
+      ],
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "outer-bot-left",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          131.42857142857142,
+          425.2631578947368
+        ]
+      ],
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "outer-bot-right",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          701.2135922330096,
+          421.3592233009709
+        ]
+      ],
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "inner-bot-left",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          295.12953367875645,
+          291.5025906735751
+        ]
+      ],
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "inner-bot-right",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          500.3,
+          293.2
+        ]
+      ],
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "20190906_202106_600_image.png",
+  "imageData": null,
+  "imageHeight": 540,
+  "imageWidth": 960
+}
